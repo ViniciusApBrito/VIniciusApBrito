@@ -1,8 +1,7 @@
 ### Olá, me chamo Vinícius!!  👋
 
-- Cursando Desenvolvimento de sistema💻 
+- Cursando Desenvolvimento de sistema 2/4💻 
 - Tenho 18 anos 🐵
-- Amante de lontras  🦦 
 
 <div>
   <a href="https://github.com/ViniciusApBrito">
@@ -10,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusApBrito&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
-## Linguagens que eu utilizo
+## Linguagens que eu utilizo estou aprendendo
 <div>
   <img align="center" alt="Usando-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Usando-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
@@ -19,8 +18,6 @@
   <img align="center" alt="Usando-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Usando-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
-
-## Estou aprendendo
 <div style="display: inline_block"><br>
   <img align="center" alt="aprendendo-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="aprendendo-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
