@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusApBrito&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+
 ## Linguagens que eu utilizo estou aprendendo
 <div>
   <img align="center" alt="aprendendo-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
