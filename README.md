@@ -1,6 +1,6 @@
 ### Olá, me chamo Vinícius!!  👋
 
-- Cursando Desenvolvimento de sistema 2/4💻 
+- Cursando Análise e desenvolvimento de sistema 2/4💻 
 - Tenho 18 anos 🐵
   
 ## Linguagens que eu utilizo estou aprendendo
