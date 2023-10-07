@@ -11,8 +11,8 @@
   <img align="center" alt="aprendendo-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 
 ## Outras redes
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_charmoso/)
-</div>
+  <a href="https://www.linkedin.com/in/vinícius-brito-4278a7292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 
 ### Linguagens que eu uso e status do perfil
 <div>
