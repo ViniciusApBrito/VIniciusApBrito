@@ -1,10 +1,3 @@
-## Olá, me chamo Vinícius!!  👋
-
-- Atualmente sou estudante do curso de ADS 🙂
-- Tenho 18 anos e estou utilizando este perfil para treinar minhas habilidades na programação 🫡
-- Busco meu primeiro emprego na área 💪
-- Tentando ir para o backend 💻 
-  
 ### Linguagens que estou atualmente estudando
 <div>
   <img align="center" alt="aprendendo-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
